@@ -1,0 +1,36 @@
+nav ul a {
+	color: #B2DFDB;
+}
+
+nav ul a:hover {
+	color: #FFFFFF;
+}
+
+nav .brand-logo,
+.button-collapse {
+	color: #B2DFDB;
+}
+
+.hero-text {
+	color: #FFFFFF;
+	text-shadow: 1px 1px 1px #009688;
+}
+
+.parallax-container {
+	min-height: 300px;
+	height: auto;
+	line-height: 0;
+	color: #B2DFDB;
+}
+
+.welcome {
+	color: #00796B;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 32px;
+}
+
+.ptext {
+	font-size: 18px;
+	line-height: 32px;
+}
